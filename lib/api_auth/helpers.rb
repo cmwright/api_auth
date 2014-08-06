@@ -1,4 +1,5 @@
 require 'benchmark'
+require 'pp'
 
 module ApiAuth
 
