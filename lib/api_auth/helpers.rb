@@ -24,7 +24,7 @@ module ApiAuth
         end
       end
       
-      pp "TIME TAKEN FOR MD5: ${time_taken}"
+      pp "TIME TAKEN FOR MD5: #{time_taken}"
       
       return res
     end
